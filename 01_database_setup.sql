@@ -1,0 +1,2 @@
+-- the schema: create tables 
+-- meta table: table in a database that stores data about other data
