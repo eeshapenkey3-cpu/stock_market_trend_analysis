@@ -1,3 +1,9 @@
+/* PROJECT: S&P 500 Trend Analysis
+METRIC DEFINITIONS:
+- ROI: ((Close - Open) / Open) * 100
+- Volatility: STDDEV of Close Price (Risk Assessment)
+- Price Points: Open, Close, High, Low (Daily market movement)
+*/
 USE sp500_analysis;
 
 -- 1. ROI Analysis (Row-level math)
