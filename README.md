@@ -25,3 +25,10 @@ This project performs a deep dive into S&P 500 stock data to evaluate performanc
 * **Open Price**: The price at which a stock first trades when the exchange opens for the day.
 * **Close Price**: The final price at which a stock trades when the exchange closes; used as the standard benchmark for daily performance.
 * **High / Low Price**: The maximum/ minimum prices reached by a stock during a specific trading period.
+
+### Market Sector Analysis  
+To understand the composition of the S&P 500 data stored in my MySQL database, I visualized the distribution of stocks across major sectors.  
+Key Insights:
+* **Dominant Sectors**: The visualization highlights that Technology and Financials represent the largest portions of the dataset.
+* **Data Integrity**: This graph confirms that the MySQL import correctly categorized all 500+ tickers without null values in the sector column.
+* **Tooling**: Designed in Canva (V1) to map out the schema
