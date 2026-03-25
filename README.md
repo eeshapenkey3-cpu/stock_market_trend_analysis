@@ -32,3 +32,4 @@ Key Insights:
 * **Dominant Sectors**: The visualization highlights that Technology and Financials represent the largest portions of the dataset.
 * **Data Integrity**: This graph confirms that the MySQL import correctly categorized all 500+ tickers without null values in the sector column.
 * **Tooling**: Designed in Canva (V1) to map out the schema
+![S&P 500 Sector Treemap](./sp500_sector_treemap.png)
