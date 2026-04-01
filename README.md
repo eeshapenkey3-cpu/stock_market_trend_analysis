@@ -15,7 +15,7 @@ This project uses MySQL to process S&P 500 stock data, identifying market leader
 ### Sector Composition
 To verify data distribution, I mapped the dataset by sector volume:
 ![S&P 500 Sector Treemap](./sp500_sector_treemap.png)
-
+![S&P 500 data analysis](./sp500_dashboard_analysis.png)
 ![S&P 500 data audit](./data_audit_null_check.png)
 * **Top Sectors**: Tech and Financials dominate the current database schema.
 * **Validation**: Treemap confirms zero null values in sector categorization.
